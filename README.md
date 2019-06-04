@@ -1,2 +1,2 @@
-# dassl-duck
+# DASSL Duck
 DASSL Duck
