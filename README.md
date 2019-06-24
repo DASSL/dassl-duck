@@ -20,3 +20,6 @@ Support Overhang Angle: 60 mm/s
 Build Plate Adhesion Type: Skirt
 ```
 Support was used for the models in the pictures, however others have printed without support with no issues. 
+
+## Repository Content
+This repository contains the current version of the dassl Duck in a .obj 3D file format which should be compatible for any slicing engine. For convenience there is also the gcode/ directory that contains pre-compiled gcode for use on most standard FDM printers. There are multiple different sizes of the model with `dasslDuck.obj` being the standard size. The repository also contains an images/ directory that contains pictures of the current version (v5) in the top-level, as well as previous versions images in dedicated folders. There is no `v4` folder as there is almost no visual difference between `v4` and `v5` dassl Ducks.
