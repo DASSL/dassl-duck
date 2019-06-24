@@ -7,7 +7,7 @@ The dassl Duck is not actually rubber, but rather a 3D printed plastic model wit
 The current iteration of the dassl Duck was designed using the online 3D modeling software [Tinkercad](https://tinkercad.com), a simple online model editor that allowed for fast modification and iteration of the model. The 3D model was then exported as a .obj file and sliced by [Ultimaker Cura Software](https://ultimaker.com/en/products/ultimaker-cura-software), a free and open-source 3D model slicing program. The resulting .gcode file was then printed using a [Monoprice Maker Select 3D Printer v2](https://www.monoprice.com/product?p_id=13860&gclid=Cj0KCQjw6cHoBRDdARIsADiTTzaTkReRz-KWjMdBoxAuGKZEHuVaYLvsS76ZyLjN_BzlsVjv7bqrmqUaAl9KEALw_wcB) with [HATCHBOX Yellow PLA](https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00J0GRREW/ref=sr_1_3?keywords=yellow+pla&qid=1561389931&s=gateway&sr=8-3) and painted using [Uni-posca Paint Marker Pens](https://www.amazon.com/Uni-posca-Paint-Marker-Pen-PC-1M8C/dp/B001MT893I/ref=sr_1_68?crid=2O3WLMSM8RX17&keywords=posca+paint+markers&qid=1561388944&s=gateway&sprefix=ppsca+paint+markers%2Caps%2C149&sr=8-68).
 
 ## Printer Settings
-The settings that achieved the results in the directory pictures/v5 are as follows: 
+The settings that achieved the results in the directory images/v5 are as follows: 
 ```
 Layer Height: 0.1 mm
 Infill Density: 15%
