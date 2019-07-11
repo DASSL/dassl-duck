@@ -23,3 +23,13 @@ Support was used for the models in the pictures, however others have printed wit
 
 ## Repository Content
 This repository contains the current version of the DASSL Duck in a .obj 3D file format which should be compatible for any slicing engine. For convenience there is also the `gcode/` directory that contains pre-compiled gcode for use on most standard FDM printers. There are multiple different sizes of the model with `DASSLduck.obj` being the standard size. The repository also contains an `images/` directory with pictures of the current version (v5) in the top-level, as well as images of previous versions in dedicated folders. There is no `v4` folder as there is almost no visual difference between `v4` and `v5` DASSL Ducks.
+
+## Gcode Sizes
+These are the sizes of the models that will be printed using the generated gcode files in the `gcode/` directory:
+| File Name | Model Size (mm) |
+| --- | --- |
+| dasslDuck.gcode | 47.94 x 57.32 x 46.10 |  
+| dasslDuck_Large.gcode | 63.77 x 81.32 x 69.20 |
+| dasslDuck_XLarge.gcode | 85.19 x 105.32 x 92.30 |
+| dasslDuck_XXLarge.gcode | 106.59 x 126.60 x 115.40 |
+| dasslDuck_XXXLarge.gcode | 128.01 x 150.60 x 138.60 |
