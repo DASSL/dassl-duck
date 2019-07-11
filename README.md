@@ -26,10 +26,10 @@ This repository contains the current version of the DASSL Duck in a .obj 3D file
 
 ## Gcode Sizes
 These are the sizes of the models that will be printed using the generated gcode files in the `gcode/` directory:  
-| File Name | Model Size (mm) |  
-| --- | --- |  
-| dasslDuck.gcode | 47.94 x 57.32 x 46.10 |    
-| dasslDuck_Large.gcode | 63.77 x 81.32 x 69.20 |  
-| dasslDuck_XLarge.gcode | 85.19 x 105.32 x 92.30 |  
-| dasslDuck_XXLarge.gcode | 106.59 x 126.60 x 115.40 |  
+| File Name                | Model Size (mm)          |  
+| ------------------------ | ------------------------ |  
+| dasslDuck.gcode          | 47.94 x 57.32 x 46.10    |  
+| dasslDuck_Large.gcode    | 63.77 x 81.32 x 69.20    |  
+| dasslDuck_XLarge.gcode   | 85.19 x 105.32 x 92.30   |  
+| dasslDuck_XXLarge.gcode  | 106.59 x 126.60 x 115.40 |  
 | dasslDuck_XXXLarge.gcode | 128.01 x 150.60 x 138.60 |  
